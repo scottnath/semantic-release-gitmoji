@@ -59,9 +59,6 @@
     "lodash.uniq": "^4.5.0",
     "node-emoji": "^1.11.0"
   },
-  "peerDependencies": {
-    "semantic-release": "<23"
-  },
   "files": [
     "lib",
     "index.js"
